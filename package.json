@@ -1,7 +1,7 @@
 {
   "name": "azure-nodejs",
   "version": "1.0.0",
-  "description": "Azure Functions sample for the Serverless framework",
+  "description": "Azure MTA Status",
   "main": "handler.js",
   "keywords": [
     "azure",
